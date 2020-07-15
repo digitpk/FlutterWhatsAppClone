@@ -19,7 +19,7 @@ Building a WhatsApp Clone in Flutter.
 >
 > * [PayPal](https://www.paypal.me/imthepk/)
 
-# License
+# Licence
 
     Copyright 2018 Pawan Kumar
 
